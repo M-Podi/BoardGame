@@ -1,7 +1,5 @@
 1. the libraries required to run the project including the full version of each library
 
-Example:
-
 cv2 (OpenCV): 4.5.5
 numpy: 1.24.0
 
