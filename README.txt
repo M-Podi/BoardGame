@@ -10,4 +10,4 @@ Run the main function with the images folder path and annotations folder.
 
 The images folder should contain the images of the game board that need to be analyzed (including the turns file), and the annotations folder (output folder) is where the score file and the position files will be generated
 
-This should solve all the taks from this assignment by generating the files with the positions and pieces (task 1 and 2) and generating the score file (tasl 3)
+This should solve all the taks from this assignment by generating the files with the positions and pieces (task 1 and 2) and generating the score file (task 3)
